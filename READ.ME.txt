@@ -1,3 +1,0 @@
-#Calculadora Web
-
-Projeto de estudo em JavaScript.
