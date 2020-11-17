@@ -1,3 +1,3 @@
 # Calculadora Web em Javascript
 
-Aplicação para estudos em javascript.
+Construida com HTML, CSS e Javascript(Vanilla).
